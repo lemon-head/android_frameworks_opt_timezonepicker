@@ -62,7 +62,7 @@
         android:id="@+id/timezonelist"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="#FFECECEC"
+        android:background="@color/listview_background"
         android:choiceMode="singleChoice" >
     </ListView>
 </LinearLayout>
